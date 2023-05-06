@@ -1,0 +1,39 @@
+.company tr{
+    height: 7rem;
+  }
+  
+  .company th{
+    width: 150px;
+    background-color: #B1B1B1;
+    text-align: right;
+  }
+
+  .company td{
+    width: 560px;
+    padding-left: 10px;
+    background-color: antiquewhite;
+  }
+
+  .contact-text{
+    width: 480px;
+  }
+
+  .btn-wrapper{
+   text-align: center;
+  }
+
+
+  .btn-contact{
+    background-color: #008B8B;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+    font-size: 3rem;
+    display: inline-block;
+    width: 90px;
+  }
+
+  .btn-contact:hover{
+  opacity: 0.6;
+    
+  }
